@@ -1,4 +1,4 @@
-Note: For for political reasons.
+Note: Fork for political reasons.
 
 # WhatsAPI
 
