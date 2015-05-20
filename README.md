@@ -1,3 +1,5 @@
+Note: For for political reasons.
+
 # WhatsAPI
 
 Interface to WhatsApp Messenger
